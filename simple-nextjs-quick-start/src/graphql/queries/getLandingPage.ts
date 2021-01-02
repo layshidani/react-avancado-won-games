@@ -7,6 +7,6 @@ const GET_LANDING_PAGE = /* GraphQL */ `
       }
     }
   }
-`;
+`
 
-export default GET_LANDING_PAGE;
+export default GET_LANDING_PAGE
